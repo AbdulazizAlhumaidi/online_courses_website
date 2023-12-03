@@ -1,0 +1,10 @@
+.card-image-custom{
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+}
+.black1 {
+    background-color : black;
+    height: 200px;
+    width: 200px;
+}
